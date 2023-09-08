@@ -10,7 +10,7 @@
 // This program is freeware for non-commercial use. 
 // An author does no guarantee about this program.
 // You can use this under your own risk.
-//
+//e
 // 2005- 2- 9 	The description of the ROM was changed.
 //              Data on the ROM are initialized at the time of the start.            
 //================================================================================
